@@ -1,0 +1,36 @@
+
+.ms-n5 {
+    margin-left: -40px;
+}
+
+
+
+#processa:before {
+    content: '';
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 255, 255, .8);
+    z-index: 2;
+}
+
+#processa h4{
+    display: inline-block;
+    text-align: left;
+    color: #333;
+    padding: 20px;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: bold;
+    top: 50%;
+    width: auto;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+}
+
+
+
