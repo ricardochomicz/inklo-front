@@ -1,16 +1,16 @@
 # _inklo
 
-This template should help get you started developing with Vue 3 in Vite.
+Aplicação para consumir API GitHub
 
-## Recommended IDE Setup
+## Tecnologias utilzadas
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+VueJS 3 + Vite + Pinia
 
-## Customize configuration
+## Configuração
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Setup Projeto
 
 ```sh
 npm install
@@ -22,8 +22,4 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
